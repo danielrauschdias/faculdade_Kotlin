@@ -6,10 +6,10 @@ fun main() {
     
     nomes.add(nome1);
     
-    println(nomes[0]);
+    println(nomes);
     
     val nomes2:List<String> = listOf("Jean", "Elise", "Gabriel");
     
-    println(nomes2[0]);
+    println(nomes2);
     
 }
