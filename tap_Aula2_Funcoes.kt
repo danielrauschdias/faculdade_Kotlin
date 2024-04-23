@@ -9,7 +9,8 @@ fun imprimir(texto: String) = println(texto);
 *fun soma(x: Double, y: Double): Double {
 *    return x + y;
 *}
-*/Na versão simplificada não pode ser usado o "return", pois o retorno é implícito.
+*Na versão simplificada não pode ser usado o "return", pois o retorno é implícito.
+*/
 fun soma(x: Double, y: Double): Double = x + y;
 
 fun main() {
